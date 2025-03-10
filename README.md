@@ -1,1 +1,1 @@
-link: https://arifmuratpoyraz.github.io/brithday/
+link: https://arifmuratpoyraz.github.io/pelom/
